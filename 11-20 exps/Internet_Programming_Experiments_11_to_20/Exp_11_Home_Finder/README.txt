@@ -1,0 +1,1 @@
+Experiment 11: Home Finder\n\nOpen index.html in a browser or use VS Code Live Server.\noutput.png is a 1920x1080 dashboard preview image.\nThis is a front-end starter/demo, not a production backend.
