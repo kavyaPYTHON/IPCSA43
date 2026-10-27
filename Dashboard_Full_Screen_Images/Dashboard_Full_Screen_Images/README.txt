@@ -1,8 +1,6 @@
 FULL-SCREEN DASHBOARD OUTPUT IMAGES
 
-This folder contains 10 separate full-screen dashboard preview images, each 1920 x 1080 pixels.
-Open any PNG image to view it. These are visual references for your lab experiments, not live websites.
-Images:
+
 01_Library_Management_System.png
 02_Hotel_Room_Booking.png
 03_Bus_Ticket_Booking.png
